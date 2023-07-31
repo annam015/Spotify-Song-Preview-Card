@@ -1,5 +1,9 @@
 # INVO Academy JS Starter with Vite - Spotify challenge
 
+## Deployment
+
+- [Netlify:](https://sparkly-kleicha-624ff9.netlify.app)
+- 
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/)
