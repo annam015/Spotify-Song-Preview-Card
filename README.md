@@ -2,8 +2,8 @@
 
 ## Deployment
 
-- [Netlify:](https://sparkly-kleicha-624ff9.netlify.app)
-- 
+- [Netlify](https://sparkly-kleicha-624ff9.netlify.app)
+  
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/)
